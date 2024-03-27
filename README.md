@@ -1,4 +1,4 @@
-# plants watering control with Azure
+# IOT Azure
 
 * Azure IoT architecture
 <center>
@@ -8,10 +8,6 @@
 <br>
 
 
-* demos
-    - with cli to send commands [link](https://www.youtube.com/watch?v=tQTMoHhKo98)
-
-    - with serverless [link](https://www.youtube.com/watch?v=WdupkN_S0Lg)
 
 * Azure services
     - Azure IoT hub
